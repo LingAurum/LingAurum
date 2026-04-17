@@ -78,15 +78,6 @@ Follow [@LingAurum on X](https://x.com/LingAurum) for live build logs.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub stats
-
-<div align="center">
-
-![LingAurum's Stats](https://github-readme-stats.vercel.app/api?username=LingAurum&show_icons=true&hide_border=true&theme=vue-dark&include_all_commits=true&count_private=true)
-![LingAurum's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LingAurum&hide_border=true&theme=vue-dark)
-![LingAurum's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LingAurum&layout=compact&hide_border=true&theme=vue-dark&langs_count=8)
-
-</div>
 
 ## 💬 Say hi
 
