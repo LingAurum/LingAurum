@@ -5,8 +5,6 @@
 ### *Writing code, harnesses, and notes in public.*
 
 [![X Follow](https://img.shields.io/badge/Follow-@LingAurum-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LingAurum)
-[![Profile Views](https://komarev.com/ghpvc/?username=LingAurum&style=for-the-badge&color=D4A94A&label=VISITORS)](https://github.com/LingAurum)
-
 </div>
 
 ---
